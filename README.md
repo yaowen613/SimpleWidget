@@ -1,0 +1,2 @@
+# SimpleWidget
+Android简单的widget桌面小部件开发案例
